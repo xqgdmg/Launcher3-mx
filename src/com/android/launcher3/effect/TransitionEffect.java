@@ -18,7 +18,7 @@ import com.android.launcher3.folder.Folder;
 import static android.view.View.VISIBLE;
 
 /**
- * 滑动特效
+ * 滑动特效1
  */
 public class TransitionEffect {
 
